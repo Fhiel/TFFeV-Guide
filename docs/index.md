@@ -86,3 +86,4 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - **Premium-Konnektivität:** Ist ab Übergabe **4 Wochen kostenlos inklusive** (Live-Verkehrsdaten, Spotify, Satellite-Maps, Video-Streaming). Danach optional für 9,99 € / Monat über die Tesla App buchbar.
 - **Weitere Fahrer einladen:** In der Tesla App unter *Fahrzeug verwalten > Fahrer hinzufügen* den Einladungslink einfach per Messenger versenden.
+
