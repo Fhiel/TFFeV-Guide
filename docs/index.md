@@ -3,7 +3,8 @@
 Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für Schritt durch die optimale Reihenfolge beim Erst-Setup – direkt bei der Übergabe oder später zu Hause beim Einrichten für weitere Fahrer.
 
 !!! tip "Hinweis im Delivery Center"
-    WLAN nutzen (SSID: `TESLA GUEST` | Passwort: `abcd123456`).
+    WLAN nutzen (SSID: `TESLA GUEST` | Passwort: `abcd123456`)
+
 ---
 
 ## 📱 Phase 1: Smartphone & Profil-Einstellungen
