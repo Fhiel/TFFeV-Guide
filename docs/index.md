@@ -36,7 +36,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von `PSI` auf **`BAR`** umstellen.
-  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. 
+  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![QR Code](assets/dashcam.png){ width="200" }
   - *Hinweis:* Wächter-Modus verbraucht ca. 1–2 % Akku pro Tag und benötigt einen formatierten USB-Speicher im Handschuhfach.
 
 - [ ] **6. Software & Trip-Bordcomputer**
