@@ -1,0 +1,13 @@
+# MkDocs Build- & Cache-Ordner
+site/
+.cache/
+
+# Python Virtual Environment
+.venv/
+env/
+venv/
+
+# System / VS Code / Git Temp
+.DS_Store
+Thumbs.db
+.git/COMMIT_EDITMSG
