@@ -4,9 +4,7 @@ site_url: https://fhiel.github.io/TFFeV-Guide/
 copyright: "Copyright &copy; 2026 TFF e.V. Supporter Team &bull; Lizenziert unter MIT License"
 
 extra:
-  version:
-    provider: mike
-  # Alternativ/Zusätzlich Angaben im Footer:
+  version: "v1.0.0"
   manifest: 'manifest.webmanifest'
 
 theme:
@@ -30,25 +28,25 @@ theme:
     - navigation.instant      # Schnelleres Laden ohne Refresh
     - navigation.top          # "Nach oben"-Button
     - navigation.footer       # Footer-Navigation
-    - navigation.tracking     # Google Analytics Tracking
+    - navigation.tracking     # Analytics Tracking
     - content.action.edit     # Edit-Link (optional)
 
-# PWA / Offline-Funktionalität aktivieren:
 plugins:
-  - offline
+  - search                    # Suchfunktion aktivieren
+  - offline                   # PWA / Offline-Funktionalität
+  - git-revision-date-localized:
+      type: date
+      locale: de
 
 markdown_extensions:
   - attr_list
   - admonition
-  - pymdownx.tasklist:      # Ermöglicht [-] Checkboxen
+  - pymdownx.tasklist:        # Ermöglicht [-] Checkboxen
       custom_checkbox: true
-  - pymdownx.superfences    # Verbeserter Code- & Tabellenblock-Support
-  - pymdownx.details       # Ausklappbare Infoboxen
+  - pymdownx.superfences      # Verbesserter Code- & Tabellenblock-Support
+  - pymdownx.details          # Ausklappbare Infoboxen
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.git_revision_date_localized:
-      type: date
-      locale: de
 
 extra_javascript:
   - javascripts/checklists.js
