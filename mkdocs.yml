@@ -41,6 +41,9 @@ markdown_extensions:
   - pymdownx.details       # Ausklappbare Infoboxen
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.git_revision_date_localized:
+      type: date
+      locale: de
 
 extra_javascript:
   - javascripts/checklists.js
