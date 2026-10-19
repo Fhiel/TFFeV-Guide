@@ -1,6 +1,13 @@
 site_name: TFF e.V. Tesla Übergabe-Guide
-site_description: Leitfaden für Tesla-Übergaben & Erst-Setup
-site_author: TFF e.V. Supporter
+site_description: Leitfaden für neue Tesla-Besitzer & Erst-Setup
+site_url: https://fhiel.github.io/TFFeV-Guide/
+copyright: "Copyright &copy; 2026 TFF e.V. Supporter Team &bull; Lizenziert unter MIT License"
+
+extra:
+  version:
+    provider: mike
+  # Alternativ/Zusätzlich Angaben im Footer:
+  manifest: 'manifest.webmanifest'
 
 theme:
   name: material
@@ -22,6 +29,7 @@ theme:
   features:
     - navigation.instant      # Schnelleres Laden ohne Refresh
     - navigation.top          # "Nach oben"-Button
+    - navigation.footer       # Footer-Navigation
     - content.action.edit     # Edit-Link (optional)
 
 markdown_extensions:

@@ -114,3 +114,17 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - **Weitere Fahrer einladen:** In der Tesla App unter *Fahrzeug verwalten > Fahrer hinzufügen* den Einladungslink einfach per Messenger versenden. Profile (Sitz, Spiegel, Audio-Vorlieben) kommen cloud-basiert mit.
 - **Software-Updates:** Regelmäßig prüfen und idealerweise nachts über WLAN installieren.
 - **Offizielles Handbuch:** Im Auto unter App-Launcher → Manual jederzeit verfügbar.
+
+---
+
+## ℹ️ Projekt-Informationen
+
+| Eigenschaft | Details |
+| :--- | :--- |
+| **Version:** | `v1.0.0` (Stand: Oktober 2026) |
+| **Herausgeber:** | TFF e.V. Supporter Team |
+| **Lizenz:** | [MIT License](https://opensource.org/licenses/MIT) – Frei nutzbar, anpassbar und weiterverwendbar. |
+| **Quellcode:** | Open Source auf GitHub |
+
+!!! info "Mithelfen & Fehler melden"
+    Hast du Änderungen durch ein neues Tesla-Software-Update entdeckt? Verbesserungsvorschläge nehmen wir gerne als Issue oder Pull Request im Repository entgegen!
