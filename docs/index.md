@@ -2,10 +2,8 @@
 
 Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für Schritt durch die optimale Reihenfolge beim Erst-Setup – direkt bei der Übergabe oder später zu Hause beim Einrichten für weitere Fahrer.
 
-!!! tip "Hinweis im Delivery Center"
-    WLAN nutzen (SSID: `TESLA GUEST` | Passwort: `abcd123456`)
-
----
+!!! tip "WLAN im Delivery Center"
+    SSID: `TESLA GUEST` | Passwort: `abcd123456`
 
 ## 📱 Phase 1: Smartphone & Profil-Einstellungen
 
@@ -32,12 +30,12 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **4. Beleuchtung, Wischer & Waschanlagenmodus**
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
-  - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster – essenziell für automatische Waschstraßen, die das Auto ziehen.
+  - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster. Hilfreich bei allen Arbeiten am Auto und essenziell für automatische Waschstraßen, die das Auto ziehen.
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von `PSI` auf **`BAR`** umstellen.
   - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![QR Code](assets/dashcam.png){ width="200" }
-  - *Hinweis:* Wächter-Modus verbraucht ca. 1–2 % Akku pro Tag und benötigt einen formatierten USB-Speicher im Handschuhfach.
+  - *Hinweis:* Wächter-Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Speicher im Handschuhfach.
 
 - [ ] **6. Software & Trip-Bordcomputer**
   - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar einstellen.
@@ -45,7 +43,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - *Wichtig:* Dienen Zähler **niemals löschen!** Perfekt für Langzeit-Verbrauchsübersicht, Kosten und Sommer/Winter-Vergleiche.
 
 - [ ] **7. Klima & Innenraum**
-  - Luftstrom-Steuerung, Auto-/Manuell-Modus, Sitzheizung sowie Lenkradheizung/-lüftung ausprobieren.
+  - Luftstrom-Steuerung, Auto-/Manuell-Modus.
+  - Lenkradheizung sowie Sitzheizung/-lüftung.
 
 ---
 
@@ -54,8 +53,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **8. Lenkradbedienung & Sprachsteuerung**
   - **Mikrofon-Taste:** Sprachbefehle testen (*"Navigiere nach Hause"*, *"Handschuhfach öffnen"*, *"Klima auf 21 Grad"* uvm. inkl. Grok-Assistenz).
   - **Scheibenwischer-Taste:** Kurz drücken = einmal wischen; lang drücken = Scheibenwaschanlage.
-  - **Kameras:** Umschaltung auf dem Display (Vorne/Hinten) und Frontkamerareinigung ausprobieren.
-  - **Fahrassistenten:** Lichthupe und Tempomat/Autopilot-Aktivierung verinnerlichen.
+  - **Kameras:** Umschaltung auf dem Display (Vorne/Hinten) und Frontkamerareinigung.
+  - **Fahrassistenten:** Lichthupe und Tempomat/Autopilot-Aktivierung, Geschwindigkeitseinstellung verinnerlichen.
 
 - [ ] *9. Navigation & Supercharger-Demo**
   - **Zuhause-Adresse:** Unter Navigation „Zuhause“ eingeben und speichern (künftig durch kurzes Nach-Unten-Wischen auf der Navigationsleiste direkt aufrufbar).
@@ -74,7 +73,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **11. Heckkofferraum & Ladeklappe**
   - **Kofferraum:** Öffnen und Stopp-Funktion sowie Einstellung der Öffnungshöhe testen (Taste am Deckel auf gewünschter Höhe gedrückt halten, bis ein Signalton ertönt, und am Display bestätigen).
   - **Ladeklappe:** Automatische Öffnung (Tippen auf Klappe oder Kabel-Knopf) und Schließautomatik prüfen.
-  - **Wichtig:** *Niemals die Ladeklappe manuell mit Gewalt zudrücken!*
+
+!!! warning "Niemals die Ladeklappe manuell mit Gewalt zudrücken!"
 
 - [ ] **12. Türen & Notentriegelung**
   - Öffnen der Türen von außen und innen ausprobieren.
