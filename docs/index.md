@@ -22,7 +22,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **3. Sitz, Spiegel & Lenkrad einstellen**
   - Fahrersitz, Außenspiegel und Lenkrad elektrisch anpassen.
-  - **Wichtig:** Nach allen Einstellungen auf das kleine Pop-up oben im Display achten und auf **„Speichern“** tippen, um die Position fest in deinem Profil zu hinterlegen.
+!!! info "Nach allen Einstellungen auf das kleine Pop-up oben im Display achten und immer auf **„Speichern“** tippen, um die Position fest in deinem Profil zu hinterlegen."
 
 ---
 
@@ -30,17 +30,21 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **4. Beleuchtung, Wischer & Waschanlagenmodus**
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
-  - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster. Hilfreich bei allen Arbeiten am Auto und essenziell für automatische Waschstraßen, die das Auto ziehen.
+  - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster.
+  
+!!! warning "Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen."
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von `PSI` auf **`BAR`** umstellen.
   - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![QR Code](assets/dashcam.png){ width="200" }
-  - *Hinweis:* Wächter-Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Speicher im Handschuhfach.
+  
+!!! info "Wächter-Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Speicher im Handschuhfach."
 
 - [ ] **6. Software & Trip-Bordcomputer**
   - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar einstellen.
   - **Trips:** Einen neuen Bordcomputer-Eintrag namens **„GESAMT“** anlegen.
-  - *Wichtig:* Dienen Zähler **niemals löschen!** Perfekt für Langzeit-Verbrauchsübersicht, Kosten und Sommer/Winter-Vergleiche.
+  
+!!! info "Dienen Zähler **niemals löschen!** Perfekt für Langzeit-Verbrauchsübersicht, Kosten und Sommer/Winter-Vergleiche."
 
 - [ ] **7. Klima & Innenraum**
   - Luftstrom-Steuerung, Auto-/Manuell-Modus.
@@ -74,7 +78,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Kofferraum:** Öffnen und Stopp-Funktion sowie Einstellung der Öffnungshöhe testen (Taste am Deckel auf gewünschter Höhe gedrückt halten, bis ein Signalton ertönt, und am Display bestätigen).
   - **Ladeklappe:** Automatische Öffnung (Tippen auf Klappe oder Kabel-Knopf) und Schließautomatik prüfen.
 
-!!! warning "Niemals die Ladeklappe manuell mit Gewalt zudrücken!"
+!!! warning "Niemals die Ladeklappe manuell zudrücken!"
 
 - [ ] **12. Türen & Notentriegelung**
   - Öffnen der Türen von außen und innen ausprobieren.
