@@ -1,0 +1,37 @@
+site_name: TFF e.V. Tesla Übergabe-Guide
+site_description: Leitfaden für Tesla-Übergaben & Erst-Setup
+site_author: TFF e.V. Supporter
+
+theme:
+  name: material
+  language: de
+  palette:
+    # Dunkel/Hell-Modus Anpassung
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Zum dunklen Design wechseln
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Zum hellen Design wechseln
+  features:
+    - navigation.instant      # Schnelleres Laden ohne Refresh
+    - navigation.top          # "Nach oben"-Button
+    - content.action.edit     # Edit-Link (optional)
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.tasklist:      # Ermöglicht [-] Checkboxen
+      custom_checkbox: true
+  - pymdownx.superfences    # Verbeserter Code- & Tabellenblock-Support
+  - pymdownx.details       # Ausklappbare Infoboxen
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_javascript:
+  - javascripts/checklists.js
