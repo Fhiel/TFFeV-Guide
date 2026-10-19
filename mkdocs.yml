@@ -30,7 +30,12 @@ theme:
     - navigation.instant      # Schnelleres Laden ohne Refresh
     - navigation.top          # "Nach oben"-Button
     - navigation.footer       # Footer-Navigation
+    - navigation.tracking     # Google Analytics Tracking
     - content.action.edit     # Edit-Link (optional)
+
+# PWA / Offline-Funktionalität aktivieren:
+plugins:
+  - offline
 
 markdown_extensions:
   - attr_list
