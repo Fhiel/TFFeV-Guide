@@ -4,8 +4,17 @@ site_url: https://fhiel.github.io/TFFeV-Guide/
 copyright: "Copyright &copy; 2026 TFF e.V. Supporter Team &bull; Lizenziert unter MIT License"
 
 extra:
-  version: "v1.0.0"
-  manifest: 'manifest.webmanifest'
+  manifest: 'assets/manifest.webmanifest'
+
+theme:
+  name: material
+  language: de
+  favicon: assets/logo.png    # Pfad zu eurem Logo/Icon
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
 
 theme:
   name: material
