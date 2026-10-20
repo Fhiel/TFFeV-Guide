@@ -23,7 +23,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 ## ⚙️ Phase 2: Fahrzeug- & System-Einstellungen
 
-![Home](assets/home.png){ width="200" }
+![Home](assets/home.png)
 
 - [ ] **3. Sitz, Spiegel & Lenkrad einstellen**
   - Fahrersitz, Außenspiegel und Lenkrad anpassen.
@@ -84,7 +84,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Zuhause-Adresse:** Unter Navigation „Zuhause“ eingeben und speichern (künftig durch kurzes Nach-Unten-Wischen auf der Navigationsleiste direkt aufrufbar).
   - **Supercharger-Demo:** Ein Ziel eingeben (z. B. *"Supercharger Würzburg"* – keine genaue Adresse nötig).
   - **Routenplanung:** Supercharger auf der Strecke anzeigen lassen und einen Stopp zur Probe hinzufügen (demonstriert Ladeplanung und Akku-Vorkonditionierung).
-  - **Optionen auf der Navi-Anzeige:** Aufruf durch einmal aus die Karte drücken ![Navi](assets/navi.png){ width="200"}.
+  - **Optionen auf der Navi-Anzeige:** Aufruf durch einmal auf die Karte drücken ![Navi](assets/navi.png){ width="200"}.
     - Kartenansicht / Satellitenbild  
     - Verkehrslage
     - Mein Standort
