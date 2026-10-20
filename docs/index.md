@@ -85,7 +85,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Supercharger-Demo:** Ein Ziel eingeben (z. B. *"Supercharger Würzburg"* – keine genaue Adresse nötig).
   - **Routenplanung:** Supercharger auf der Strecke anzeigen lassen und einen Stopp zur Probe hinzufügen (demonstriert Ladeplanung und Akku-Vorkonditionierung).
   - **Optionen auf der Navi-Anzeige:** Aufruf durch einmal aus die Karte drücken ![Navi](assets/navi.png){ width="200"}.
-    - Strassenansicht / Satellitenbild 
+    - Kartenansicht / Satellitenbild  
     - Verkehrslage
     - Mein Standort
     - Supercharger
@@ -130,7 +130,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 | Eigenschaft | Details |
 | :--- | :--- |
-| **Version:** | `v1.0.0` (Stand: Oktober 2026) |
+| **Version:** | `v1.0.1` (Stand: Oktober 2026) |
 | **Herausgeber:** | TFF e.V. Supporter Team |
 | **Lizenz:** | [MIT License](https://opensource.org/licenses/MIT) – Frei nutzbar, anpassbar und weiterverwendbar. |
 | **Quellcode:** | Open Source auf GitHub |
