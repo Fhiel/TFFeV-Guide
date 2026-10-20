@@ -128,7 +128,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 !!! tip "Guide teilen & gemeinsam nutzen 📱"
     Dir gefällt dieser Guide und du möchtest ihn teilen oder direkt auf dem eigenen Smartphone mitlesen und abhaken?
-    
+
     <div align="center" style="margin-top: 15px;">
       <img src="assets/qr.png" width="180" alt="QR-Code zum TFF e.V. Tesla Übergabe-Guide">
       <p><em>Einfach mit der Smartphone-Kamera scannen & direkt aufrufen</em></p>
@@ -145,4 +145,3 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 !!! info "Mithelfen & Fehler melden"
     Hast du Änderungen durch ein neues Tesla-Software-Update entdeckt? Verbesserungsvorschläge nehmen wir gerne als Issue oder Pull Request im Repository entgegen!
-
