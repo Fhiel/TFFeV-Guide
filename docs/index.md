@@ -4,6 +4,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 !!! tip "WLAN im Delivery Center"
     SSID: `TESLA GUEST` | Passwort: `abcd123456`
 
+---
+
 ## 📱 Phase 1: Smartphone & Profil-Einstellungen
 
 - [ ] **1. Handyschlüssel & Profil-Verknüpfung**
