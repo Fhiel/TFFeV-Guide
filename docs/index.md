@@ -18,14 +18,16 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
     - **iPhone:** Bluetooth-Einstellungen explizit geöffnet halten.
     - **Pixel:** Smartphone komplett neustarten.
     - *Fehlgeschlagene Verbindung:* Vorgang erneut starten (kann im Center bis zu 5 Versuche benötigen).
+  
+---
+
+## ⚙️ Phase 2: Fahrzeug- & System-Einstellungen
+
+![Home](assets/home.png){ width="200" }
 
 - [ ] **3. Sitz, Spiegel & Lenkrad einstellen**
   - Fahrersitz, Außenspiegel und Lenkrad anpassen.
 !!! info "Nach allen Einstellungen auf das kleine Pop-up oben im Display achten und immer auf **„Speichern“** tippen, um die Position fest in deinem Profil zu hinterlegen."
-
----
-
-## ⚙️ Phase 2: Fahrzeug- & System-Einstellungen
 
 - [ ] **4. Beleuchtung, Wischer & Waschanlagenmodus**
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
@@ -35,7 +37,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von `PSI` auf **`BAR`** umstellen. Energieanzeige nach Wunsch auf % / km oder beides stellen.
-  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![QR Code](assets/dashcam.png){ width="200" }
+  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![Dashcam](assets/dashcam.png){ width="200" }
   - **Joe Mode** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
 !!! info "Wächter-Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach."
@@ -54,7 +56,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **8. Audio-Einstellungen & Quellen**
   - Medien-Player öffnen (App-Launcher oder Lautstärke-Leiste unten).
-  - **Quellen verwalten:** *Fahrzeug > Audio* (oder Zahnrad über der Lautstärkeregelung) → Quellen. Unbenutzte Apps/Quellen ausblenden (z. B. Tidal, Amazon Music, TuneIn…), damit es übersichtlicht bleibt.
+  - **Quellen verwalten:** *Fahrzeug > Audio* (oder Zahnrad über der Lautstärkeregelung) → Quellen. Unbenutzte Apps/Quellen ausblenden (z. B. Tidal, Amazon Music, TuneIn…), damit es übersichtlich bleibt.
   - Equalizer / Ton: Bass, Mitten, Höhen, Subwoofer (bei Premium-Audio zusätzlich Immersive Sound).
   - Balance (Mittelpunkt des Sounds verschieben).
   - Optionen: Explicit Content, DJ-Commentary, Mobile Control erlauben.
@@ -82,6 +84,13 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Zuhause-Adresse:** Unter Navigation „Zuhause“ eingeben und speichern (künftig durch kurzes Nach-Unten-Wischen auf der Navigationsleiste direkt aufrufbar).
   - **Supercharger-Demo:** Ein Ziel eingeben (z. B. *"Supercharger Würzburg"* – keine genaue Adresse nötig).
   - **Routenplanung:** Supercharger auf der Strecke anzeigen lassen und einen Stopp zur Probe hinzufügen (demonstriert Ladeplanung und Akku-Vorkonditionierung).
+  - **Optionen auf der Navi-Anzeige:** Aufruf durch einmal aus die Karte drücken ![Navi](assets/navi.png){ width="200"}.
+    - Strassenansicht / Satellitenbild 
+    - Verkehrslage
+    - Mein Standort
+    - Supercharger
+    - Wettervorhersage
+    - 3D Ansicht
 
 ---
 
