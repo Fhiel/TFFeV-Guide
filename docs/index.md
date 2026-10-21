@@ -71,7 +71,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **9. Laden & Batterie**
   - **Ladelimit** einstellen (*Fahrzeug > Laden*): Täglich 80 % (bei NMC-Akkus). Bei LFP-Akkus (Standard Range) darf dauerhaft 100 % geladen werden.
-  - Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
+  - **Zeitpläne** Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
 
 | Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |
 | :--- | :--- | :--- | :--- | :--- | :--- |
