@@ -16,7 +16,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Verbindung herstellen:** Den Verbindungsaufbau **immer im Bluetooth-Menü des Tesla** starten (*Fahrzeug > Bluetooth > Gerät hinzufügen*), sobald dein Handy aufgetaucht ist.
   - **Kopplungscode:** Den 6-stelligen Code auf dem Smartphone vergleichen und bestätigen.
   - **Standardgerät festlegen:** Das eigene Handy als *Priorisiertes Gerät* markieren.
-  - *Troubleshooting bei Scan-Problemen:*
+  
+!!! "Troubleshooting bei Scan-Problemen:"
     - **iPhone:** Bluetooth-Einstellungen explizit geöffnet halten.
     - **Pixel:** Smartphone komplett neustarten.
     - *Fehlgeschlagene Verbindung:* Vorgang erneut starten (kann im Center bis zu 5 Versuche benötigen).
@@ -29,7 +30,9 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **3. Sitz, Spiegel & Lenkrad einstellen**
   - Fahrersitz, Außenspiegel und Lenkrad anpassen.
-!!! info "Nach allen Einstellungen auf das kleine Pop-up oben im Display achten und immer auf **„Speichern“** tippen, um die Position fest in deinem Profil zu hinterlegen."
+  
+!!! info "Speichern nicht vergessen!"
+    Nach allen Einstellungen auf das kleine Pop-up oben im Display achten und immer auf **Speichern** tippen, um die Position fest in deinem Profil zu hinterlegen.
 
 - [ ] **4. Beleuchtung, Wischer & Waschanlagenmodus**
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
