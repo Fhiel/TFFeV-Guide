@@ -46,7 +46,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![Dashcam](assets/dashcam.png){ width="200" }
   - **Joe Mode** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
-!!! info "Wächter-Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach."
+!!! info "Wächter-Modus"
+    Der Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach."
 
 - [ ] **6. Software & Trip-Bordcomputer**
   - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar einstellen.
@@ -70,9 +71,13 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **9. Laden & Batterie**
   - **Ladelimit** einstellen (*Fahrzeug > Laden*): Täglich 80 % (bei NMC-Akkus). Bei LFP-Akkus (Standard Range) darf dauerhaft 100 % geladen werden.
-  - Geplanteetes Laden / Abfahrtszeit einrichten (Vorkonditionierung + Laden fertig zur gewünschten Zeit).
-  - Kurz den Unterschied Supercharger / Destination Charger / Wall Connector erklären.
-
+  - Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
+  - Ladeoptionen
+    - **Supercharger** von TESLA: DC-Schnellladen, Plug&Charge, Abrechnung über Bezahlart in der Tesla APP
+    - **Schnelllader / HPC Lader** von EnbW, Aral, Ionity, usw.: DC-Schnellladen, Plug&Charge (optinal), Abrechnung über eigene APP, Kreditkarte oder Ladekarte
+    - **Destination Charger** von Tesla: AC-Laden mit 11 kW, oft bei Hotels oder Restaurants, die dann vor-Ort abrechnen
+    - **Wall Connector oder Wallbox** AC-Laden unterwegs (Lade- oder Kreditkarte) oder zuhause mit max. 11 kW -> entspricht ca. 80 km pro Stunde
+  
 - [ ] **10. Fahren & One-Pedal-Driving**
   - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.
   - Das Auto hält vollständig an, sobald man vom Pedal geht (echtes One-Pedal-Driving). Kurz erklären und testen, damit neue Fahrer sich daran gewöhnen.
