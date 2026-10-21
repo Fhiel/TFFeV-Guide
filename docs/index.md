@@ -76,7 +76,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 | Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |
 | :--- | :--- | :--- | :--- | :--- | :--- | 
 | **Supercharger** | TESLA | DC-Schnellladen 175 -250 kW | CCS Kabel am Supercharger | Plug&Charge | Abrechnung über Bezahlart in der Tesla APP |
-| **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen 175 -250 kW | CCS Kabel am Schnellader | Plug&Charge (optional) | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
+| **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen 175 -250 kW | CCS Kabel am Schnellader | Plug&Charge (optional) Karte oder App | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
 | **Ladesäule** | div. Anbieter | AC-Laden 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Ladekarte |
 | **Destination Charger** | Tesla | AC-Laden 11 kW | Type 2 Kabel am Charger | Plug&Charge | Bei Hotels oder Restaurants, die dann selbst abrechnen |
 | **Wall Connector** | Tesla | AC-Laden 11 kW | Type 2 Kabel am Charger | Plug&Charge | Der Destination Cherger für zuhause |
