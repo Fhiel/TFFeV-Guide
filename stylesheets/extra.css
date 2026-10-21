@@ -1,0 +1,16 @@
+/* 1. Schriftgröße in ALLEN Admonition-Boxen (!warning, !tip, !note etc.) anpassen */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.85rem; /* Standard ist 0.8rem. Auf 0.85rem oder 0.9rem anheben */
+}
+
+/* 2. Optional: Überschrift der Boxen anpassen */
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-size: 0.9rem;
+}
+
+/* 3. Optional: Globale Basisschriftgröße der gesamten Webseite anpassen */
+:root {
+  --md-typeset-font-size: 0.8rem; /* Standard-Fließtext */
+}
