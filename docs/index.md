@@ -81,8 +81,6 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 | **Wall Connector** | Tesla | AC-Laden mit 11 kW | Type 2 Kabel am Charger | Plug&Charge | Der Destination Cherger für zuhause |
 | **Ladesäule** | Energieversorger | AC-Laden mit 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Zuhause |
 | **Wallbox** | privat | AC-Laden mit 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) oder Kabel | Start sofort oder mit Karte | Zuhause |
-
-Unterwegs AC-Laden unterwegs (Lade- oder Kreditkarte) oder zuhause mit max. 11 kW -> entspricht ca. 80 km pro Stunde
   
 - [ ] **10. Fahren & One-Pedal-Driving**
   - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.
