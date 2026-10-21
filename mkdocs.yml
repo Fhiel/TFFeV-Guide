@@ -57,5 +57,9 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+# Custom CSS einbinden:
+extra_css:
+  - stylesheets/extra.css
+  
 extra_javascript:
   - javascripts/checklists.js
