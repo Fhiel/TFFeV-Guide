@@ -74,7 +74,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
 
 | Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |
-| :--- | :--- | :--- | :--- | :--- | :--- | 
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | **Supercharger** | TESLA | DC-Schnellladen 175 -250 kW | CCS Kabel am Supercharger | Plug&Charge | Abrechnung über Bezahlart in der Tesla APP |
 | **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen 175 -250 kW | CCS Kabel am Schnellader | Plug&Charge (optional) Karte oder App | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
 | **Ladesäule** | div. Anbieter | AC-Laden 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Ladekarte |
