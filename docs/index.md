@@ -86,13 +86,22 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Zuhause-Adresse:** Unter Navigation „Zuhause“ eingeben und speichern (künftig durch kurzes Nach-Unten-Wischen auf der Navigationsleiste direkt aufrufbar).
   - **Supercharger-Demo:** Ein Ziel eingeben (z. B. *"Supercharger Würzburg"* – keine genaue Adresse nötig).
   - **Routenplanung:** Supercharger auf der Strecke anzeigen lassen und einen Stopp zur Probe hinzufügen (demonstriert Ladeplanung und Akku-Vorkonditionierung).
-  - **Optionen auf der Navi-Anzeige:** Aufruf durch einmal auf die Karte drücken ![Navi](assets/navi.png){ width="200"}.
-    - Kartenansicht / Satellitenbild  
-    - Verkehrslage
-    - Mein Standort
-    - Supercharger
-    - Wettervorhersage
-    - 3D Ansicht
+
+<div class="grid cards" markdown>
+
+- ![Navi-Anzeige](assets/navi.png)
+
+- **Optionen auf der Navi-Anzeige:**  
+    *(Aufruf durch einmaliges Tippen auf die Karte)*
+
+  - 🗺️ **Kartenansicht / Satellitenbild**
+  - 🚗 **Verkehrslage**
+  - 📍 **Mein Standort**
+  - ⚡ **Supercharger**
+  - 🌤️ **Wettervorhersage**
+  - 🧊 **3D-Ansicht**
+
+</div>
 
 ---
 
