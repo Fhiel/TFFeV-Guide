@@ -52,7 +52,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar einstellen.
   - **Trips:** Einen neuen Bordcomputer-Eintrag namens **„GESAMT“** anlegen.
   
-!!! info "Diesen Zähler **niemals löschen!** Perfekt für Langzeit-Verbrauchsübersicht, Kosten und Sommer/Winter-Vergleiche."
+!!! info "Trip Zähler GESAMT"
+    Diesen Zähler **niemals löschen!** Perfekt für Langzeit-Verbrauchsübersicht, Kosten und Sommer/Winter-Vergleiche.
 
 - [ ] **7. Klima & Innenraum**
   - Luftstrom-Steuerung, Auto-/Manuell-Modus.
@@ -108,7 +109,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Kofferraum:** Öffnen und Stopp-Funktion sowie Einstellung der Öffnungshöhe testen (Taste am Deckel auf gewünschter Höhe gedrückt halten, bis ein Signalton ertönt, und am Display bestätigen).
   - **Ladeklappe:** Öffnung (Tippen auf Klappe oder Kabel-Knopf) und Schließautomatik prüfen.
 
-!!! warning "Ladeklappe"
+!!! warning "Ladeklappe schliesst automatisch"
     Niemals **manuell** zudrücken!
 
 - [ ] **15. Türen & Notentriegelung**
@@ -117,7 +118,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
     - **Vordertüren:** Hebel direkt vor den Fensterschaltern nach oben ziehen.
     - **Fondtüren** (bei den meisten neueren Modellen): Matte im Türfach entfernen → Abdeckung abziehen → Seilzug nach vorne ziehen.
   
-!!! warning "Türen nicht manuell öffnen"
+!!! warning "Türen nur im Notfall manuell öffnen"
     Beim manuellen Türöffnen senkt sich das Fenster nicht automatisch ab – Scheibe oder Verkleidung können beschädigt werden. Nur im echten Notfall verwenden.
 
 ---
