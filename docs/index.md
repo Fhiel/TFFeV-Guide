@@ -74,7 +74,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
   - Ladeoptionen
     - **Supercharger** von TESLA: DC-Schnellladen, Plug&Charge, Abrechnung über Bezahlart in der Tesla APP
-    - **Schnelllader / HPC Lader** von EnbW, Aral, Ionity, usw.: DC-Schnellladen, Plug&Charge (optinal), Abrechnung über eigene APP, Kreditkarte oder Ladekarte
+    - **Schnelllader / HPC Lader** von EnbW, Aral, Ionity, usw.: DC-Schnellladen, Plug&Charge (optional), Abrechnung über eigene APP, Kreditkarte oder Ladekarte
     - **Destination Charger** von Tesla: AC-Laden mit 11 kW, oft bei Hotels oder Restaurants, die dann vor-Ort abrechnen
     - **Wall Connector oder Wallbox** AC-Laden unterwegs (Lade- oder Kreditkarte) oder zuhause mit max. 11 kW -> entspricht ca. 80 km pro Stunde
   
