@@ -87,16 +87,17 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Supercharger-Demo:** Ein Ziel eingeben (z. B. *"Supercharger Würzburg"* – keine genaue Adresse nötig).
   - **Routenplanung:** Supercharger auf der Strecke anzeigen lassen und einen Stopp zur Probe hinzufügen (demonstriert Ladeplanung und Akku-Vorkonditionierung).
 
-- ![Navi-Anzeige](assets/navi.png)
+*   ![Navi-Anzeige](assets/navi.png)
 
-- **Optionen auf der Navi-Anzeige:**  
+*   **Optionen auf der Navi-Anzeige:**  
     *(Aufruf durch einmaliges Tippen auf die Karte)*
-  - 🗺️ **Kartenansicht / Satellitenbild**
-  - 🚗 **Verkehrslage**
-  - 📍 **Mein Standort**
-  - ⚡ **Supercharger**
-  - 🌤️ **Wettervorhersage**
-  - 🧊 **3D-Ansicht**
+
+    * 🗺️ **Kartenansicht / Satellitenbild**
+    * 🚗 **Verkehrslage**
+    * 📍 **Mein Standort**
+    * ⚡ **Supercharger**
+    * 🌤️ **Wettervorhersage**
+    * 🧊 **3D-Ansicht**
 
 ---
 
