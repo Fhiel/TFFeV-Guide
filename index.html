@@ -519,13 +519,13 @@
 <li><strong>Licht &amp; Wischer:</strong> Scheinwerfer auf <code>AUTO</code>, Scheibenwischer auf <code>AUTO</code> stellen.</li>
 <li><strong>Waschanlagenmodus:</strong> Unter <em>Fahrzeug &gt; Service &gt; Waschanlagenmodus</em> testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster.</li>
 </ul>
-<div class="admonition warning">
+<div class="admonition info">
 <p class="admonition-title">Waschanlagenmodus</p>
 <p>Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen.</p>
 </div>
 <ul class="task-list">
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> <strong>5. Anzeige &amp; Sicherheit</strong></li>
-<li><strong>Anzeige:</strong> Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von <code>PSI</code> auf <strong><code>BAR</code></strong> umstellen. Energieanzeige nach Wunsch auf % / km oder beides stellen.</li>
+<li><strong>Anzeige:</strong> Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit <strong><code>BAR</code></strong> kontrollieren. Energieanzeige nach Wunsch auf % oder km (= Reichweite) stellen.</li>
 <li><strong>Sicherheit:</strong> Wächter-Modus (Sentry) und Dashcam aktivieren. <img alt="Dashcam" src="assets/dashcam.png" width="200" /></li>
 <li><strong>Joe Mode</strong> aktivieren (<em>Fahrzeug &gt; Sicherheit</em>): Signaltöne werden leiser – ideal für Familien.</li>
 </ul>
@@ -535,7 +535,7 @@
 </div>
 <ul class="task-list">
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> <strong>6. Software &amp; Trip-Bordcomputer</strong></li>
-<li><strong>Software:</strong> Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar einstellen.</li>
+<li><strong>Software:</strong> Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar änderbar.</li>
 <li><strong>Trips:</strong> Einen neuen Bordcomputer-Eintrag namens <strong>„GESAMT“</strong> anlegen.</li>
 </ul>
 <div class="admonition info">
@@ -545,7 +545,7 @@
 <ul class="task-list">
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> <strong>7. Klima &amp; Innenraum</strong></li>
 <li>Luftstrom-Steuerung, Auto-/Manuell-Modus.</li>
-<li>Lenkradheizung sowie Sitzheizung/-lüftung.</li>
+<li>Lenkradheizung sowie Sitzheizung/-lüftung (je nach Modell).</li>
 <li><strong>Cabin Overheat Protection</strong> (Überhitzungsschutz): An / Nur Lüfter / Aus – schützt das Interieur bei Hitze (max. ca. 12 Stunden oder bis Low-Power-Mode).</li>
 <li>
 <p><strong>Dog Mode / Pet Mode</strong> und <strong>Camp Mode</strong> kurz zeigen (Keep Climate On) – Bildschirm bleibt an, Temperatur sichtbar, App-Überwachung möglich.</p>
@@ -565,18 +565,71 @@
 </li>
 <li><strong>Ladelimit</strong> einstellen (<em>Fahrzeug &gt; Laden</em>): Täglich 80 % (bei NMC-Akkus). Bei LFP-Akkus (Standard Range) darf dauerhaft 100 % geladen werden.</li>
 <li>Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.</li>
-<li>
-<p>Ladeoptionen</p>
-<ul>
-<li><strong>Supercharger</strong> von TESLA: DC-Schnellladen, Plug&amp;Charge, Abrechnung über Bezahlart in der Tesla APP</li>
-<li><strong>Schnelllader / HPC Lader</strong> von EnbW, Aral, Ionity, usw.: DC-Schnellladen, Plug&amp;Charge (optinal), Abrechnung über eigene APP, Kreditkarte oder Ladekarte</li>
-<li><strong>Destination Charger</strong> von Tesla: AC-Laden mit 11 kW, oft bei Hotels oder Restaurants, die dann vor-Ort abrechnen</li>
-<li><strong>Wall Connector oder Wallbox</strong> AC-Laden unterwegs (Lade- oder Kreditkarte) oder zuhause mit max. 11 kW -&gt; entspricht ca. 80 km pro Stunde</li>
 </ul>
-</li>
-<li class="task-list-item">
-<p><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> <strong>10. Fahren &amp; One-Pedal-Driving</strong></p>
-</li>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Ladeoptionen</th>
+<th style="text-align: left;">Anbieter</th>
+<th style="text-align: left;">Typ</th>
+<th style="text-align: left;">Stecker</th>
+<th style="text-align: left;">Start</th>
+<th style="text-align: left;">Abrechnung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Supercharger</strong></td>
+<td style="text-align: left;">TESLA</td>
+<td style="text-align: left;">DC-Schnellladen</td>
+<td style="text-align: left;">CCS Kabel am Supercharger</td>
+<td style="text-align: left;">Plug&amp;Charge</td>
+<td style="text-align: left;">Abrechnung über Bezahlart in der Tesla APP</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Schnelllader / HPC Lader</strong></td>
+<td style="text-align: left;">EnbW, Aral, Ionity, usw.</td>
+<td style="text-align: left;">DC-Schnellladen</td>
+<td style="text-align: left;">CCS Kabel am Schnellader</td>
+<td style="text-align: left;">Plug&amp;Charge (optional)</td>
+<td style="text-align: left;">Abrechnung über eigene APP, Kreditkarte oder Ladekarte</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Destination Charger</strong></td>
+<td style="text-align: left;">Tesla</td>
+<td style="text-align: left;">AC-Laden mit 11 kW</td>
+<td style="text-align: left;">Type 2 Kabel am Charger</td>
+<td style="text-align: left;">Plug&amp;Charge</td>
+<td style="text-align: left;">oft bei Hotels oder Restaurants, die dann vor-Ort abrechnen</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Wall Connector</strong></td>
+<td style="text-align: left;">Tesla</td>
+<td style="text-align: left;">AC-Laden mit 11 kW</td>
+<td style="text-align: left;">Type 2 Kabel am Charger</td>
+<td style="text-align: left;">Plug&amp;Charge</td>
+<td style="text-align: left;">Der Destination Cherger für zuhause</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Ladesäule</strong></td>
+<td style="text-align: left;">Energieversorger</td>
+<td style="text-align: left;">AC-Laden mit 11 kW</td>
+<td style="text-align: left;">Type 2 Steckdose (hier benötigt man das Ladekabel)</td>
+<td style="text-align: left;">Start mit Karte</td>
+<td style="text-align: left;">Zuhause</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Wallbox</strong></td>
+<td style="text-align: left;">privat</td>
+<td style="text-align: left;">AC-Laden mit 11 kW</td>
+<td style="text-align: left;">Type 2 Steckdose (hier benötigt man das Ladekabel) oder Kabel</td>
+<td style="text-align: left;">Start sofort oder mit Karte</td>
+<td style="text-align: left;">Zuhause</td>
+</tr>
+</tbody>
+</table>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> <strong>10. Fahren &amp; One-Pedal-Driving</strong></li>
 <li>Der <strong>Haltemodus</strong> ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.</li>
 <li>Das Auto hält vollständig an, sobald man vom Pedal geht (echtes One-Pedal-Driving). Kurz erklären und testen, damit neue Fahrer sich daran gewöhnen.</li>
 </ul>
@@ -711,7 +764,7 @@
     <span class="md-icon" title="Letztes Update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="21. Oktober 2026 12:02:08 UTC">21. Oktober 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="21. Oktober 2026 14:01:36 UTC">21. Oktober 2026</span>
   </span>
 
     
