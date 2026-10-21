@@ -75,12 +75,12 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 | Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |
 | :--- | :--- | :--- | :--- | :--- | :--- | 
-| **Supercharger** | TESLA | DC-Schnellladen mit 175 -250 kW | CCS Kabel am Supercharger | Plug&Charge | Abrechnung über Bezahlart in der Tesla APP |
-| **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen mit 175 -250 kW | CCS Kabel am Schnellader | Plug&Charge (optional) | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
-| **Ladesäule** | Energieversorger | AC-Laden mit 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Ladekarte |
-| **Destination Charger** | Tesla | AC-Laden mit 11 kW | Type 2 Kabel am Charger | Plug&Charge | Bei Hotels oder Restaurants, die dann selbst abrechnen |
-| **Wall Connector** | Tesla | AC-Laden mit 11 kW | Type 2 Kabel am Charger | Plug&Charge | Der Destination Cherger für zuhause |
-| **Wallbox** | privat | AC-Laden mit 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) oder Kabel | Start sofort oder mit Karte / Schalter | Zuhause |
+| **Supercharger** | TESLA | DC-Schnellladen 175 -250 kW | CCS Kabel am Supercharger | Plug&Charge | Abrechnung über Bezahlart in der Tesla APP |
+| **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen 175 -250 kW | CCS Kabel am Schnellader | Plug&Charge (optional) | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
+| **Ladesäule** | div. Anbieter | AC-Laden 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Ladekarte |
+| **Destination Charger** | Tesla | AC-Laden 11 kW | Type 2 Kabel am Charger | Plug&Charge | Bei Hotels oder Restaurants, die dann selbst abrechnen |
+| **Wall Connector** | Tesla | AC-Laden 11 kW | Type 2 Kabel am Charger | Plug&Charge | Der Destination Cherger für zuhause |
+| **Wallbox** | privat | AC-Laden 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) oder Kabel | Start sofort oder mit Karte / Schalter | Zuhause |
   
 - [ ] **10. Fahren & One-Pedal-Driving**
   - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.
