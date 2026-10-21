@@ -38,11 +38,11 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
   - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster.
   
-!!! warning "Waschanlagenmodus"
+!!! info "Waschanlagenmodus"
     Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen.
 
 - [ ] **5. Anzeige & Sicherheit**
-  - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von `PSI` auf **`BAR`** umstellen. Energieanzeige nach Wunsch auf % / km oder beides stellen.
+  - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf % oder km (= Reichweite) stellen.
   - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![Dashcam](assets/dashcam.png){ width="200" }
   - **Joe Mode** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
@@ -50,7 +50,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
     Der Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach."
 
 - [ ] **6. Software & Trip-Bordcomputer**
-  - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar einstellen.
+  - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar änderbar.
   - **Trips:** Einen neuen Bordcomputer-Eintrag namens **„GESAMT“** anlegen.
   
 !!! info "Trip Zähler GESAMT"
@@ -58,7 +58,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **7. Klima & Innenraum**
   - Luftstrom-Steuerung, Auto-/Manuell-Modus.
-  - Lenkradheizung sowie Sitzheizung/-lüftung.
+  - Lenkradheizung sowie Sitzheizung/-lüftung (je nach Modell).
   - **Cabin Overheat Protection** (Überhitzungsschutz): An / Nur Lüfter / Aus – schützt das Interieur bei Hitze (max. ca. 12 Stunden oder bis Low-Power-Mode).
   - **Dog Mode / Pet Mode** und **Camp Mode** kurz zeigen (Keep Climate On) – Bildschirm bleibt an, Temperatur sichtbar, App-Überwachung möglich.
 
@@ -72,11 +72,17 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **9. Laden & Batterie**
   - **Ladelimit** einstellen (*Fahrzeug > Laden*): Täglich 80 % (bei NMC-Akkus). Bei LFP-Akkus (Standard Range) darf dauerhaft 100 % geladen werden.
   - Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
-  - Ladeoptionen
-    - **Supercharger** von TESLA: DC-Schnellladen, Plug&Charge, Abrechnung über Bezahlart in der Tesla APP
-    - **Schnelllader / HPC Lader** von EnbW, Aral, Ionity, usw.: DC-Schnellladen, Plug&Charge (optional), Abrechnung über eigene APP, Kreditkarte oder Ladekarte
-    - **Destination Charger** von Tesla: AC-Laden mit 11 kW, oft bei Hotels oder Restaurants, die dann vor-Ort abrechnen
-    - **Wall Connector oder Wallbox** AC-Laden unterwegs (Lade- oder Kreditkarte) oder zuhause mit max. 11 kW -> entspricht ca. 80 km pro Stunde
+
+| Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |
+| :---: | :--- | :--- | :--- | :--- | :--- | 
+| **Supercharger** | TESLA | DC-Schnellladen | CCS Kabel am Supercharger | Plug&Charge | Abrechnung über Bezahlart in der Tesla APP |
+| **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen |CCS Kabel am Schnellader | Plug&Charge (optional) | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
+| **Destination Charger** | Tesla | AC-Laden mit 11 kW | Type 2 Kabel am Charger | Plug&Charge | oft bei Hotels oder Restaurants, die dann vor-Ort abrechnen |
+| **Wall Connector** | Tesla | AC-Laden mit 11 kW | Type 2 Kabel am Charger | Plug&Charge | Der Destination Cherger für zuhause |
+| **Ladesäule** | Energieversorger | AC-Laden mit 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Zuhause |
+| **Wallbox** | privat | AC-Laden mit 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) oder Kabel | Start sofort oder mit Karte | Zuhause |
+
+Unterwegs AC-Laden unterwegs (Lade- oder Kreditkarte) oder zuhause mit max. 11 kW -> entspricht ca. 80 km pro Stunde
   
 - [ ] **10. Fahren & One-Pedal-Driving**
   - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.
