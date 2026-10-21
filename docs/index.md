@@ -42,9 +42,9 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
     Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen.
 
 - [ ] **5. Anzeige & Sicherheit**
-  - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf % oder km (= Reichweite) stellen.
-  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam aktivieren. ![Dashcam](assets/dashcam.png){ width="200" }
-  - **Joe Mode** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
+  - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf **`%`** oder **`km`** (= Reichweite) stellen.
+  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam **`AUTO`** und **`Beim Hupen`** aktivieren. ![Dashcam](assets/dashcam.png){ width="200" }
+  - **`Joe Mode`** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
 !!! info "Wächter-Modus"
     Der Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach."
