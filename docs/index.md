@@ -35,7 +35,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
   - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster.
   
-!!! warning "Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen."
+!!! warning "Waschanlagenmodus"
+    Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen.
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit von `PSI` auf **`BAR`** umstellen. Energieanzeige nach Wunsch auf % / km oder beides stellen.
@@ -104,7 +105,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Kofferraum:** Öffnen und Stopp-Funktion sowie Einstellung der Öffnungshöhe testen (Taste am Deckel auf gewünschter Höhe gedrückt halten, bis ein Signalton ertönt, und am Display bestätigen).
   - **Ladeklappe:** Öffnung (Tippen auf Klappe oder Kabel-Knopf) und Schließautomatik prüfen.
 
-!!! warning "Niemals die Ladeklappe manuell zudrücken!"
+!!! warning "Ladeklappe"
+    Niemals **manuell** zudrücken!
 
 - [ ] **15. Türen & Notentriegelung**
   - Öffnen der Türen von außen und innen ausprobieren.
@@ -112,7 +114,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
     - **Vordertüren:** Hebel direkt vor den Fensterschaltern nach oben ziehen.
     - **Fondtüren** (bei den meisten neueren Modellen): Matte im Türfach entfernen → Abdeckung abziehen → Seilzug nach vorne ziehen.
   
-!!! warning "Bei komplett leerem 12-V-Akku funktionieren die Fenster **nicht** mehr elektrisch. Beim manuellen Türöffnen senkt sich das Fenster nicht automatisch ab – Scheibe oder Verkleidung können beschädigt werden. Nur im echten Notfall verwenden."
+!!! warning "Türen nicht manuell öffnen"
+    Beim manuellen Türöffnen senkt sich das Fenster nicht automatisch ab – Scheibe oder Verkleidung können beschädigt werden. Nur im echten Notfall verwenden.
 
 ---
 
