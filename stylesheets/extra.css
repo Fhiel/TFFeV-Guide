@@ -15,20 +15,24 @@
   --md-typeset-font-size: 0.8rem; /* Standard-Fließtext */
 }
 
-/* Tabellen komprimieren: Innenabstände reduzieren & Schrift anpassen */
+/* Kompaktes Tabellen-Layout ohne unnatürliche Spaltenabstände */
 .md-typeset table:not([class]) {
-  font-size: 0.8rem;               /* Leicht lesbare, kompakte Schriftgröße */
-  display: table;                  /* Nutzt die volle Breite aus */
+  display: inline-table;            /* Verhindert das künstliche Auseinanderziehen über 100% */
   width: 100%;
+  font-size: 0.78rem;               /* Platzsparende, gut lesbare Schriftgröße */
+  border-collapse: collapse;
 }
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.4em 0.6em;            /* Standard ist 0.8em 1.2em -> Abstände halbiert! */
-  vertical-align: top;             /* Text in den Zellen oben ausrichten */
+  padding: 0.25em 0.4em !important; /* Vertikale und horizontale Abstände minimieren */
+  vertical-align: top;
+  line-height: 1.35;                /* Zeilenhöhe verringern */
 }
 
-/* Optional: Erste Spalte (Ladeoptionen) etwas hervorheben */
-.md-typeset table:not([class]) td:first-child {
-  white-space: nowrap;             /* Verhindert Zeilenumbruch bei z.B. 'HPC Lader' */
+/* Verhindert unschöne Umbrüche in kurzen Werten wie 'DC (175–250 kW)' */
+.md-typeset table:not([class]) td:nth-child(1),
+.md-typeset table:not([class]) td:nth-child(3),
+.md-typeset table:not([class]) td:nth-child(5) {
+  white-space: nowrap;
 }
