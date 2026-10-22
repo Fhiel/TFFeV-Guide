@@ -75,12 +75,12 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 | Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Supercharger** | TESLA | DC-Schnellladen 175 -250 kW | CCS Kabel am Supercharger | Plug&Charge | Abrechnung über Bezahlart in der Tesla APP |
-| **Schnelllader / HPC Lader** | EnbW, Aral, Ionity, usw. | DC-Schnellladen 175 -250 kW | CCS Kabel am Schnellader | Plug&Charge (optional) Karte oder App | Abrechnung über eigene APP, Kreditkarte oder Ladekarte |
-| **Ladesäule** | div. Anbieter | AC-Laden 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) | Start mit Karte | Ladekarte |
-| **Destination Charger** | Tesla | AC-Laden 11 kW | Type 2 Kabel am Charger | Plug&Charge | Bei Hotels oder Restaurants, die dann selbst abrechnen |
-| **Wall Connector** | Tesla | AC-Laden 11 kW | Type 2 Kabel am Charger | Plug&Charge | Der Destination Cherger für zuhause |
-| **Wallbox** | privat | AC-Laden 11 kW | Type 2 Steckdose (hier benötigt man das Ladekabel) oder Kabel | Start sofort oder mit Karte / Schalter | Zuhause |
+| **Supercharger** | Tesla | DC (175–250 kW) | CCS (integriert) | Plug & Charge | Tesla App (hinterlegtes Zahlungsmittel) |
+| **Schnelllader / HPC** | EnBW, Aral, Ionity u.a. | DC (175–300 kW) | CCS (integriert) | App / Ladekarte | App, Kreditkarte oder Ladekarte |
+| **Ladesäule (AC)** | Diverse | AC (11 kW) | Type 2 (eigenes Kabel) | App / Ladekarte | Anbieter-Ladekarte / App |
+| **Destination Charger** | Tesla | AC (11 kW) | Type 2 (integriert) | Plug & Charge | Über Hotel / Restaurant |
+| **Wall Connector** | Privat | AC (11 kW) | Type 2 (integriert) | Plug & Charge | Zuhause (eigener Stromzähler) |
+| **Wallbox** | Privat | AC (11 kW) | Type 2 (Kabel/Steckdose) | Direkt / RFID | Zuhause |
   
 - [ ] **10. Fahren & One-Pedal-Driving**
   - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.
