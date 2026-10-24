@@ -17,7 +17,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Kopplungscode:** Den 6-stelligen Code auf dem Smartphone vergleichen und bestätigen.
   - **Standardgerät festlegen:** Das eigene Handy als *Priorisiertes Gerät* markieren.
   
-!!! "Troubleshooting bei Scan-Problemen:"
+!!! tip "Troubleshooting bei Scan-Problemen:"
     - **iPhone:** Bluetooth-Einstellungen explizit geöffnet halten.
     - **Pixel:** Smartphone komplett neustarten.
     - *Fehlgeschlagene Verbindung:* Vorgang erneut starten (kann im Center bis zu 5 Versuche benötigen).
