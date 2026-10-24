@@ -79,8 +79,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 | **Schnelllader / HPC** | EnBW, Aral, Ionity u.a. | DC (175–300 kW) | CCS (integriert) | App / Ladekarte | App, Kreditkarte oder Ladekarte |
 | **Ladesäule (AC)** | Diverse | AC (11 kW) | Type 2 (eigenes Kabel) | App / Ladekarte | Anbieter-Ladekarte / App |
 | **Destination Charger** | Tesla | AC (11 kW) | Type 2 (integriert) | Plug & Charge | Über Hotel / Restaurant |
-| **Wall Connector** | Privat | AC (11 kW) | Type 2 (integriert) | Plug & Charge | Zuhause (eigener Stromzähler) |
-| **Wallbox** | Privat | AC (11 kW) | Type 2 (Kabel/Steckdose) | Direkt / RFID | Zuhause |
+| **Wall Connector** | Tesla | AC (11 kW) | Type 2 (integriert) | Plug & Charge | Zuhause (eigener Stromzähler) |
+| **Wallbox** | Privat | AC (11 kW) | Type 2 (Kabel/Steckdose) | Direkt / RFID | Zuhause (eigener Stromzähler) |
   
 - [ ] **10. Fahren & One-Pedal-Driving**
   - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.

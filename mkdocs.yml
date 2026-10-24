@@ -6,6 +6,10 @@ copyright: "Copyright &copy; 2026 TFF e.V. Supporter Team &bull; Lizenziert unte
 extra:
   manifest: 'assets/manifest.webmanifest'
 
+nav:
+  - Übersicht: index.md
+  - Impressum & Datenschutz: impressum.md
+
 theme:
   name: material
   language: de
