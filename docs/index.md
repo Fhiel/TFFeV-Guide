@@ -43,7 +43,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf **`%`** oder **`km`** (= Reichweite) stellen.
-  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam **`AUTO`** und **`Beim Hupen`** aktivieren. ![Dashcam](assets/dashcam.png){ width="200" }
+  - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam **`AUTO`** und **`Beim Hupen`** aktivieren. ![Dashcam](assets/dashcam.png)
   - **`Joe Mode`** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
 !!! info "Wächter-Modus"
@@ -65,9 +65,9 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **8. Audio-Einstellungen & Quellen**
   - Medien-Player öffnen (App-Launcher oder Lautstärke-Leiste unten).
   
-| Quellen-Einstellungen | Audioquellen |
+| Quellen | Bedeutung |
 | :---: | :--- |
-| ![Audioquellen](assets/music.png){ width="220" } | *(Nicht genutzte Dienste in den Einstellungen ausgeblenden)*<br><br> 📻 **Radio:** Terrestrischer Empfang (FM / DAB+)<br> 📱 **Bluetooth:** Audio-Streaming vom Smartphone<br> 🎵 **TIDAL:** Musik-Streaming in Hi-Fi-Qualität *(eigener Account)*<br> 🍎 **Apple Music:** Musik-Streaming von Apple *(eigener Account)*<br> 🎧 **Spotify:** Musik & Podcasts *(Premium-Konnektivität oder eigener Account)*<br> 🎙️ **Apple Podcasts:** Zugriff auf Apple Podcasts<br> 📚 **Audible:** Hörbücher & Hörspiele von Amazon<br> 🎶 **Amazon Music:** Musik-Streaming von Amazon *(eigener Account)*<br> ▶️ **YouTube Music:** Musik-Streaming von YouTube *(eigener Account)*<br> 🌐 **TuneIn:** Internetradio & weltweite Sender |
+| ![Audioquellen](assets/music.png){ width="220" } | *(Nicht genutzte Dienste ausblenden)*<br> 📻 **Radio:** Terrestrischer Empfang (FM / DAB+)<br> 📱 **Bluetooth:** Audio-Streaming vom Smartphone<br> 🎵 **TIDAL:** Musik-Streaming in Hi-Fi-Qualität *(eigener Account)*<br> 🍎 **Apple Music:** Musik-Streaming von Apple *(eigener Account)*<br> 🎧 **Spotify:** Musik & Podcasts *(Premium-Konnektivität oder eigener Account)*<br> 🎙️ **Apple Podcasts:** Zugriff auf Apple Podcasts<br> 📚 **Audible:** Hörbücher & Hörspiele von Amazon<br> 🎶 **Amazon Music:** Musik-Streaming von Amazon *(eigener Account)*<br> ▶️ **YouTube Music:** Musik-Streaming von YouTube *(eigener Account)*<br> 🌐 **TuneIn:** Internetradio & weltweite Sender |
 
   - Equalizer / Ton: Bass, Mitten, Höhen, Subwoofer (bei Premium-Audio zusätzlich Immersive Sound).
   - Balance (Mittelpunkt des Sounds verschieben).
@@ -118,10 +118,10 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **13. Frunk (Vorderer Kofferraum) & Zubehör**
   - Frunk per App oder Display öffnen.
   - **Korrektes Schließen:** Mit beiden Handflächen links und rechts neben dem Tesla-Emblem sanft herunterdrücken (nicht mittig schlagen!).
-  - **Inhalt kontrollieren:** Warndreieck, Verbandskasten, Warnweste und Ladekabel (Typ 2 / Mobile Connector) prüfen.
+  - **Inhalt kontrollieren:** Warndreieck, Verbandskasten, Warnweste und Ladekabel (Typ 2 ) prüfen.
 
 - [ ] **14. Heckkofferraum & Ladeklappe**
-  - **Kofferraum:** Öffnen und Stopp-Funktion sowie Einstellung der Öffnungshöhe testen (Taste am Deckel auf gewünschter Höhe gedrückt halten, bis ein Signalton ertönt, und am Display bestätigen).
+  - **Kofferraum:** Öffnen und Stopp-Funktion sowie Einstellung der Öffnungshöhe testen. Einstellen und durch Drücken und Halten der Taste speichern bis ein Signalton ertönt (Am Display bestätigen ob das nur für diesen Standort gelten soll).
   - **Ladeklappe:** Öffnung (Tippen auf Klappe oder Kabel-Knopf) und Schließautomatik prüfen.
 
 !!! warning "Ladeklappe schliesst automatisch"
@@ -159,7 +159,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 | Eigenschaft | Details |
 | :--- | :--- |
-| **Version:** | `v1.0.1` (Stand: Oktober 2026) |
+| **Version:** | `v1.1.1` (Stand: Oktober 2026) |
 | **Herausgeber:** | TFF e.V. Supporter Team |
 | **Lizenz:** | [MIT License](https://opensource.org/licenses/MIT) – Frei nutzbar, anpassbar und weiterverwendbar. |
 | **Quellcode:** | Open Source auf GitHub |
