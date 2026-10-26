@@ -37,3 +37,25 @@
   white-space: nowrap;
 }
 
+/* Styling für MkDocs Material Task-List Icons */
+
+/* Ungeprüfte / Leere Checkbox-Kreise */
+.md-typeset .task-list-item-checkbox .task-list-indicator::before {
+  background-color: #ffffff !important;           /* Weißer Hintergrund */
+  border: 2px solid #555555 !important;           /* Starke dunkle Kontur */
+  border-radius: 50%;
+}
+
+/* Im Dark Mode: Strahlenweiß für perfekte Sichtbarkeit */
+[data-md-color-scheme="slate"] .md-typeset .task-list-item-checkbox .task-list-indicator::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  box-shadow: 0 0 4px rgba(255, 255, 255, 0.6);   /* Leichtes Leuchten im Dunkeln */
+}
+
+/* Abgehakte / Aktivierte Checkboxen */
+.md-typeset .task-list-item-checkbox [checked] + .task-list-indicator::before {
+  background-color: #e82127 !important;           /* Tesla-Rot beim Abklicken */
+  border-color: #e82127 !important;
+}
+
