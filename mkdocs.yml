@@ -15,13 +15,11 @@ theme:
   language: de
   logo: assets/logo.png
   favicon: assets/logo.png
-  icon:
-    logo: assets/logo.png
   palette:
-    # 1. Helles Design
+    # 1. Helles Design (Weißer Header statt Indigo-Blau)
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
+      primary: white
       accent: red
       toggle:
         icon: material/brightness-7
