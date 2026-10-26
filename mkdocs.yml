@@ -24,22 +24,24 @@ theme:
   name: material
   language: de
   palette:
-    # Automatische Anpassung an das System des Smartphones/Browsers
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: An Systemdesign anpassen
-    # Hellmodus (Fallback)
+    # 1. Helles Design (Hellgrauer Header statt Blau)
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
-    # Dunkelmodus (Fallback)
+      primary: white
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Zum dunklen Design wechseln
+
+    # 2. Dunkles Design (Slate)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
-      
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Zum hellen Design wechseln
+
   features:
     - navigation.instant      # Schnelleres Laden ohne Refresh
     - navigation.top          # "Nach oben"-Button
