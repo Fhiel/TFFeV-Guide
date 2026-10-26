@@ -13,6 +13,7 @@ nav:
 theme:
   name: material
   language: de
+  logo: assets/logo.png
   favicon: assets/logo.png    # Pfad zu eurem Logo/Icon
   features:
     - navigation.instant
