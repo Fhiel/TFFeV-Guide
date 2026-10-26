@@ -65,9 +65,11 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **8. Audio-Einstellungen & Quellen**
   - Medien-Player öffnen (App-Launcher oder Lautstärke-Leiste unten).
   - **Quellen verwalten:** *Fahrzeug > Audio* (oder Zahnrad über der Lautstärkeregelung) → Quellen. Unbenutzte Apps/Quellen ausblenden, damit es übersichtlich bleibt.
+  
   | Quellen-Einstellungen | Audioquelle & Erläuterung |
 | :---: | :--- |
 | ![Audioquellen](assets/music.png){ width="220" } | **Verfügbare Audioquellen konfigurieren:**<br>*(Nicht genutzte Dienste können in den Einstellungen ausgeblendet werden, um die Ansicht übersichtlich zu halten)*<br><br>📻 **Radio:** Terrestrischer Empfang (FM / DAB+)<br><br>📱 **Bluetooth:** Audio-Streaming vom gekoppelten Smartphone<br><br>🎵 **TIDAL:** Musik-Streaming in Hi-Fi- / Hi-Res-Qualität *(eigener Account nötig)*<br><br>🍎 **Apple Music:** Musik-Streaming-Dienst von Apple *(eigener Account nötig)*<br><br>🎧 **Spotify:** Musik- & Podcast-Streaming *(Nutzung über Tesla-Premium-Konnektivität oder eigenen Account)*<br><br>🎙️ **Apple Podcasts:** Zugriff auf Podcasts & Episoden der Apple-Plattform<br><br>📚 **Audible:** Hörbücher & Hörspiele von Amazon<br><br>🎶 **Amazon Music:** Musik-Streaming-Dienst von Amazon *(eigener Account nötig)*<br><br>▶️ **YouTube Music:** Musik-Streaming-Dienst von YouTube *(eigener Account nötig)*<br><br>🌐 **TuneIn:** Internetradio-Dienst für weltweiten Empfang tausender Radiosender |
+
   - Equalizer / Ton: Bass, Mitten, Höhen, Subwoofer (bei Premium-Audio zusätzlich Immersive Sound).
   - Balance (Mittelpunkt des Sounds verschieben).
   - Optionen: Explicit Content, DJ-Commentary, Mobile Control erlauben.
