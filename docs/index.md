@@ -18,9 +18,9 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **Standardgerät festlegen:** Das eigene Handy als *Priorisiertes Gerät* markieren.
   
 !!! tip "Troubleshooting bei Scan-Problemen:"
-    - **iPhone:** Bluetooth-Einstellungen explizit geöffnet halten.
-    - **Pixel:** Smartphone komplett neustarten.
-    - *Fehlgeschlagene Verbindung:* Vorgang erneut starten (kann im Center bis zu 5 Versuche benötigen).
+    - **iPhone:** Bluetooth-Einstellungen explizit öffnen.
+    - **Pixel:** Smartphone komplett neu starten.
+    - *Fehlgeschlagene Verbindung:* Vorgang erneut starten (mehrere Versuche).
   
 ---
 
@@ -31,15 +31,15 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 - [ ] **3. Sitz, Spiegel & Lenkrad einstellen**
   - Fahrersitz, Außenspiegel und Lenkrad anpassen.
   
-!!! info "Speichern nicht vergessen!"
+!!! info "Speichern nicht vergessen"
     Nach allen Einstellungen auf das kleine Pop-up oben im Display achten und immer auf **Speichern** tippen, um die Position fest in deinem Profil zu hinterlegen.
 
 - [ ] **4. Beleuchtung, Wischer & Waschanlagenmodus**
   - **Licht & Wischer:** Scheinwerfer auf `AUTO`, Scheibenwischer auf `AUTO` stellen.
-  - **Waschanlagenmodus:** Unter *Fahrzeug > Service > Waschanlagenmodus* testen. Dieser Modus sperrt Ladeklappe, Wischer und Fenster.
+  - **Waschanlage:** Dieser Modus sperrt Ladeklappe, Wischer und Fenster.
   
 !!! info "Waschanlagenmodus"
-    Hilfreich bei allen Arbeiten am Auto aussen und essenziell für automatische Waschstraßen, die das Auto ziehen.
+    Hilfreich bei allen Arbeiten am Auto aussen, Waschanlagen und essenziell für automatische Waschstraßen, die das Auto ziehen.
 
 - [ ] **5. Anzeige & Sicherheit**
   - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf **`%`** oder **`km`** (= Reichweite) stellen.
@@ -47,7 +47,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
   - **`Joe Mode`** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
 !!! info "Wächter-Modus"
-    Der Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach."
+    Der Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach.
 
 - [ ] **6. Software & Trip-Bordcomputer**
   - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar änderbar.
@@ -64,13 +64,18 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 - [ ] **8. Audio-Einstellungen & Quellen**
   - Medien-Player öffnen (App-Launcher oder Lautstärke-Leiste unten).
-  - **Quellen verwalten:** *Fahrzeug > Audio* (oder Zahnrad über der Lautstärkeregelung) → Quellen. Unbenutzte Apps/Quellen ausblenden (z. B. Tidal, Amazon Music, TuneIn…), damit es übersichtlich bleibt.
+  - **Quellen verwalten:** *Fahrzeug > Audio* (oder Zahnrad über der Lautstärkeregelung) → Quellen. Unbenutzte Apps/Quellen ausblenden, damit es übersichtlich bleibt.
+  | Quellen-Einstellungen | Audioquelle & Erläuterung |
+| :---: | :--- |
+| ![Audioquellen](assets/music.png){ width="220" } | **Verfügbare Audioquellen konfigurieren:**<br>*(Nicht genutzte Dienste können in den Einstellungen ausgeblendet werden, um die Ansicht übersichtlich zu halten)*<br><br>📻 **Radio:** Terrestrischer Empfang (FM / DAB+)<br><br>📱 **Bluetooth:** Audio-Streaming vom gekoppelten Smartphone<br><br>🎵 **TIDAL:** Musik-Streaming in Hi-Fi- / Hi-Res-Qualität *(eigener Account nötig)*<br><br>🍎 **Apple Music:** Musik-Streaming-Dienst von Apple *(eigener Account nötig)*<br><br>🎧 **Spotify:** Musik- & Podcast-Streaming *(Nutzung über Tesla-Premium-Konnektivität oder eigenen Account)*<br><br>🎙️ **Apple Podcasts:** Zugriff auf Podcasts & Episoden der Apple-Plattform<br><br>📚 **Audible:** Hörbücher & Hörspiele von Amazon<br><br>🎶 **Amazon Music:** Musik-Streaming-Dienst von Amazon *(eigener Account nötig)*<br><br>▶️ **YouTube Music:** Musik-Streaming-Dienst von YouTube *(eigener Account nötig)*<br><br>🌐 **TuneIn:** Internetradio-Dienst für weltweiten Empfang tausender Radiosender |
   - Equalizer / Ton: Bass, Mitten, Höhen, Subwoofer (bei Premium-Audio zusätzlich Immersive Sound).
   - Balance (Mittelpunkt des Sounds verschieben).
   - Optionen: Explicit Content, DJ-Commentary, Mobile Control erlauben.
 
-- [ ] **9. Laden & Batterie**
-  - **Ladelimit** einstellen (*Fahrzeug > Laden*): Täglich 80 % (bei NMC-Akkus). Bei LFP-Akkus (Standard Range) darf dauerhaft 100 % geladen werden.
+- [ ] **9. Laden & Batterie (*Fahrzeug > Laden*)**
+  ![Laden](assets/charge.png)
+  - **Ladelimit** einstellen: Täglich 80 % (bei NMC-Akkus). Bei LFP-Akkus (Standard Range) darf dauerhaft 100 % geladen werden.
+  - **Ladestrom** für AC einstellen: **`16 A`** für Ladesäulen und die meisten Wallboxen *entspricht 11 kW*
   - **Zeitpläne** Geplantes Laden / Abfahrtszeit im Auto oder über die App einstellbar für Vorkonditionierung + Laden fertig zur gewünschten Zeit.
 
 | Ladeoptionen | Anbieter | Typ | Stecker | Start | Abrechnung |

@@ -24,19 +24,22 @@ theme:
   name: material
   language: de
   palette:
-    # Dunkel/Hell-Modus Anpassung
-    - scheme: default
-      primary: red
-      accent: red
+    # Automatische Anpassung an das System des Smartphones/Browsers
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-7
-        name: Zum dunklen Design wechseln
-    - scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/brightness-4
-        name: Zum hellen Design wechseln
+        icon: material/brightness-auto
+        name: An Systemdesign anpassen
+    # Hellmodus (Fallback)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    # Dunkelmodus (Fallback)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      
   features:
     - navigation.instant      # Schnelleres Laden ohne Refresh
     - navigation.top          # "Nach oben"-Button
