@@ -60,7 +60,8 @@ markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.tasklist:        # Ermöglicht [-] Checkboxen
-      custom_checkbox: true
+      custom_checkbox: false   # Verwendet echte HTML-Checkboxen statt der blassen SVG-Icons
+      clickable_checkbox: true
   - pymdownx.superfences      # Verbesserter Code- & Tabellenblock-Support
   - pymdownx.details          # Ausklappbare Infoboxen
   - pymdownx.tabbed:

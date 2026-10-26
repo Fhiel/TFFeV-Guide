@@ -1,61 +1,46 @@
-/* 1. Schriftgröße in ALLEN Admonition-Boxen (!warning, !tip, !note etc.) anpassen */
+/* ==========================================================================
+   1. Admonition-Boxen (!warning, !tip, !note etc.)
+   ========================================================================== */
+
+/* Schriftgröße im Inhalt der Admonitions anheben */
 .md-typeset .admonition,
 .md-typeset details {
-  font-size: 0.85rem; /* Standard ist 0.8rem. Auf 0.85rem oder 0.9rem anheben */
+  font-size: 0.85rem;
 }
 
-/* 2. Optional: Überschrift der Boxen anpassen */
+/* Überschrift der Admonitions anpassen */
 .md-typeset .admonition-title,
 .md-typeset summary {
   font-size: 0.9rem;
 }
 
-/* 3. Optional: Globale Basisschriftgröße der gesamten Webseite anpassen */
+/* Globale Basisschriftgröße */
 :root {
-  --md-typeset-font-size: 0.8rem; /* Standard-Fließtext */
+  --md-typeset-font-size: 0.8rem;
 }
 
-/* Kompaktes Tabellen-Layout ohne unnatürliche Spaltenabstände */
+
+/* ==========================================================================
+   2. Kompaktes Tabellen-Layout (Side-by-Side & Daten-Tabellen)
+   ========================================================================== */
+
 .md-typeset table:not([class]) {
-  display: inline-table;            /* Verhindert das künstliche Auseinanderziehen über 100% */
+  display: inline-table;            /* Verhindert künstliches Stretchen über 100% */
   width: 100%;
-  font-size: 0.78rem;               /* Platzsparende, gut lesbare Schriftgröße */
+  font-size: 0.78rem;               /* Platzsparende Schriftgröße */
   border-collapse: collapse;
 }
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.25em 0.4em !important; /* Vertikale und horizontale Abstände minimieren */
+  padding: 0.25em 0.4em !important; /* Vertikales & horizontales Padding minimieren */
   vertical-align: top;
-  line-height: 1.35;                /* Zeilenhöhe verringern */
+  line-height: 1.35;                /* Dichterer Zeilenabstand */
 }
 
-/* Verhindert unschöne Umbrüche in kurzen Werten wie 'DC (175–250 kW)' */
+/* Umbrüche in kurzen Spalten verhindern */
 .md-typeset table:not([class]) td:nth-child(1),
 .md-typeset table:not([class]) td:nth-child(3),
 .md-typeset table:not([class]) td:nth-child(5) {
   white-space: nowrap;
 }
-
-/* Styling für MkDocs Material Task-List Icons */
-
-/* Ungeprüfte / Leere Checkbox-Kreise */
-.md-typeset .task-list-item-checkbox .task-list-indicator::before {
-  background-color: #ffffff !important;           /* Weißer Hintergrund */
-  border: 2px solid #555555 !important;           /* Starke dunkle Kontur */
-  border-radius: 50%;
-}
-
-/* Im Dark Mode: Strahlenweiß für perfekte Sichtbarkeit */
-[data-md-color-scheme="slate"] .md-typeset .task-list-item-checkbox .task-list-indicator::before {
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
-  box-shadow: 0 0 4px rgba(255, 255, 255, 0.6);   /* Leichtes Leuchten im Dunkeln */
-}
-
-/* Abgehakte / Aktivierte Checkboxen */
-.md-typeset .task-list-item-checkbox [checked] + .task-list-indicator::before {
-  background-color: #e82127 !important;           /* Tesla-Rot beim Abklicken */
-  border-color: #e82127 !important;
-}
-
