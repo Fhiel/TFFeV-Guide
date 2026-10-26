@@ -44,3 +44,11 @@
 .md-typeset table:not([class]) td:nth-child(5) {
   white-space: nowrap;
 }
+
+/* Logo in der Kopfzeile erzwingen & Größe anpassen */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: block !important;
+  height: 2rem !important;
+  width: auto !important;
+}

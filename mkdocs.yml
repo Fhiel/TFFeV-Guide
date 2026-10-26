@@ -15,11 +15,13 @@ theme:
   language: de
   logo: assets/logo.png
   favicon: assets/logo.png
+  icon:
+    logo: assets/logo.png
   palette:
     # 1. Helles Design
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
+      primary: custom
       accent: red
       toggle:
         icon: material/brightness-7
