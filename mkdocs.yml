@@ -14,18 +14,9 @@ theme:
   name: material
   language: de
   logo: assets/logo.png
-  favicon: assets/logo.png    # Pfad zu eurem Logo/Icon
-  features:
-    - navigation.instant
-    - navigation.top
-    - navigation.footer
-    - navigation.tracking
-
-theme:
-  name: material
-  language: de
+  favicon: assets/logo.png
   palette:
-    # 1. Helles Design (Hellgrauer Header statt Blau)
+    # 1. Helles Design
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
@@ -44,15 +35,15 @@ theme:
         name: Zum hellen Design wechseln
 
   features:
-    - navigation.instant      # Schnelleres Laden ohne Refresh
-    - navigation.top          # "Nach oben"-Button
-    - navigation.footer       # Footer-Navigation
-    - navigation.tracking     # Analytics Tracking
-    - content.action.edit     # Edit-Link (optional)
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - content.action.edit
 
 plugins:
-  - search                    # Suchfunktion aktivieren
-  - offline                   # PWA / Offline-Funktionalität
+  - search
+  - offline
   - git-revision-date-localized:
       type: date
       locale: de
@@ -60,17 +51,16 @@ plugins:
 markdown_extensions:
   - attr_list
   - admonition
-  - pymdownx.tasklist:        # Ermöglicht [-] Checkboxen
-      custom_checkbox: false   # Verwendet echte HTML-Checkboxen statt der blassen SVG-Icons
+  - pymdownx.tasklist:
+      custom_checkbox: false
       clickable_checkbox: true
-  - pymdownx.superfences      # Verbesserter Code- & Tabellenblock-Support
-  - pymdownx.details          # Ausklappbare Infoboxen
+  - pymdownx.superfences
+  - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
 
-# Custom CSS einbinden:
 extra_css:
   - stylesheets/extra.css
-  
+
 extra_javascript:
   - javascripts/checklists.js
