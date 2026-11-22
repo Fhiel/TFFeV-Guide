@@ -41,13 +41,13 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 !!! info "Waschanlagenmodus"
     Hilfreich bei allen Arbeiten am Auto aussen, Waschanlagen und essenziell für automatische Waschstraßen, die das Auto ziehen.
 
-- [ ] **5. Anzeige & Sicherheit**
-  - **Anzeige:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf **`%`** oder **`km`** (= Reichweite) stellen.
+- [ ] **5. Display & Sicherheit**
+  - **Display:** Kontrast (Hell/Dunkel) anpassen. Reifendruck-Einheit **`BAR`** kontrollieren. Energieanzeige nach Wunsch auf **`%`** oder **`km`** (= Reichweite) stellen.
   - **Sicherheit:** Wächter-Modus (Sentry) und Dashcam **`AUTO`** und **`Beim Hupen`** aktivieren. ![Dashcam](assets/dashcam.png)
   - **`Joe Mode`** aktivieren (*Fahrzeug > Sicherheit*): Signaltöne werden leiser – ideal für Familien.
   
 !!! info "Wächter-Modus"
-    Der Modus verbraucht beim Parken ca. 2–3 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach.
+    Der Modus verbraucht beim Parken ca. 5–7 % Akku pro Tag und benötigt einen formatierten USB-Stick im Handschuhfach.
 
 - [ ] **6. Software & Trip-Bordcomputer**
   - **Software:** Fahrzeugname vergeben und speichern. Kennzeichen und Fahrzeugfarbe im Avatar änderbar.
@@ -88,8 +88,8 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 | **Wall Connector** | Tesla | AC (11 kW) | Type 2 (integriert) | Plug & Charge | Zuhause (eigener Stromzähler) |
 | **Wallbox** | Privat | AC (11 kW) | Type 2 (Kabel/Steckdose) | Direkt / RFID | Zuhause (eigener Stromzähler) |
   
-- [ ] **10. Fahren & One-Pedal-Driving**
-  - Der **Haltemodus** ist bei aktuellen Fahrzeugen fest auf „Halten“ eingestellt und kann nicht mehr geändert werden.
+- [ ] **10. Dynamik**
+  - **LÄSSIG** oder **STANDARD** einstellen. LÄSSIG wird auch im Winter empfohlen, da Batterie dann nicht für max. Leistung vorbereitet wird und mehr Heizenergie für den Innenraum zur Verfügung steht.
   - Das Auto hält vollständig an, sobald man vom Pedal geht (echtes One-Pedal-Driving). Kurz erklären und testen, damit neue Fahrer sich daran gewöhnen.
 
 ---
@@ -159,7 +159,7 @@ Herzlichen Glückwunsch zum neuen Tesla! Dieser Guide führt dich Schritt für S
 
 | Eigenschaft | Details |
 | :--- | :--- |
-| **Version:** | `v1.1.1` (Stand: Oktober 2026) |
+| **Version:** | `v1.1.2` (Stand: November 2026) |
 | **Herausgeber:** | TFF e.V. Supporter Team |
 | **Lizenz:** | [MIT License](https://opensource.org/licenses/MIT) – Frei nutzbar, anpassbar und weiterverwendbar. |
 | **Quellcode:** | Open Source auf GitHub |
